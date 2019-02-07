@@ -11,4 +11,5 @@ c Department of Geotechnical Engineering, National Technical University of Athen
 *Corresponding author.
 E-mail addresses: kongdeheng@tongji.edu.cn.
 
-here I share some open access agorithms that have been used and ite n this paper
+
+Here I share some open access agorithms that have been used and cited in this paper. 
