@@ -1,7 +1,8 @@
 function [] = Stereonet(trdv,plgv,intrad,sttype)
 %Stereonet plots an equal angle or equal area stereonet of unit radius
 %in any view direction
-%
+% Allmendinger, Richard W., Nestor Cardozo, and Donald M. Fisher. Structural geology algorithms: Vectors and tensors.
+% Cambridge University Press, 2011.
 %   USE: Stereonet(trdv,plgv,intrad,stttype)
 %
 %   trdv = trend of view direction
