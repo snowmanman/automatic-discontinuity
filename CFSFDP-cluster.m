@@ -4,6 +4,8 @@ clear all
 close all
 % reference：Rodriguez, A., Laio, A., 2014. Clustering by fast search and find of density peaks. 
 % Science (80-. ). 344, 1492–1496. doi:10.1126/science.1242072
+
+% Atuhors homepage:http://people.sissa.it/~laio/Research/Res_clustering.php
 %  Clustering by Fast Search and Find of Density Peaks algorithm (CFSFDP) is employed (Rodriguez and Laio, 2014).
 %CFSFDP assumes that cluster centers with a higher local density
 %are surrounded by other elements with lower local density and that there is a relatively large distance between them.
