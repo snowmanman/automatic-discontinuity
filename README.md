@@ -12,4 +12,4 @@ c Department of Geotechnical Engineering, National Technical University of Athen
 E-mail addresses: kongdeheng@tongji.edu.cn.
 
 
-Here I share some open access agorithms that have been used and cited in this paper. 
+Here I share some open access algorithms that have been used and cited in this paper. 
