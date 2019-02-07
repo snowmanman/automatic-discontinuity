@@ -7,7 +7,8 @@ function [ class,type ] = DRSCAN(x,threshold,Eps,Eta,Matrix)
 %            Matrix :  dissmilarity matrix
 %   Output : class: cluster labels (m by 1)
 %            type :  label types (1: core; 2: boundary; 3: noise)
-
+% Reference: Zhu, Y., Ting, K. M., & Carman, M. J. (2016). Density-ratio based clustering for discovering clusters with varying densities. Pattern Recognition. 
+% http://www.sciencedirect.com/science/article/pii/S0031320316301571
 
 [m,n]=size(x);
 
