@@ -1,3 +1,6 @@
+%we can use KNNSEARCH function in Matlab, or use this script for the fuction of finding the k-nearest neighbors of points.
+
+% [idx,D]=knnsearch(P,P,'NSMethod','kdtree','distance','euclidean','k',npb);
 
 function [label,Ynearest,Xnearest] = classifier_knn(X,Y,Xnew,k,status_plot)
 %k-Nearest Neighbors (kNN)
