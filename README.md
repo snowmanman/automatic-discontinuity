@@ -12,4 +12,5 @@ c Department of Geotechnical Engineering, National Technical University of Athen
 E-mail addresses: kongdeheng@tongji.edu.cn.
 
 
-Here I share some open access algorithms that have been used and cited in this paper. 
+Here I share some algorithms (which can open access in Matlab environment) that have been used and cited in this paper.  
+I also recommend the researc: Riquelme, A.J., Abellán, A., Tomás, R., Jaboyedoff, M., 2014. A new approach for semi-automatic rock mass joints recognition from 3D point clouds. Comput. Geosci. 68, 38–52. doi:10.1016/j.cageo.2014.03.014 .
